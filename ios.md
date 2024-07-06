@@ -5,18 +5,19 @@ Ein alternativer Weg um die Notizen zu nutzen ist mit dem [Obsidian-Git](https:/
 ## Guide
 
 Als erstes ein neues Vault erstellen - dies sollte das erste sein, was zu sehen ist, wenn Obsidian neu installiert wurde.
-![image](https://github.com/Galliumhydroxid/Skript-NotizenEAZ/assets/97060233/1251aa5c-a837-4434-aed5-1dcbfbc1ee6b)
+![image](https://github.com/Galliumhydroxid/Skript-NotizenEAZ/assets/97060233/05a95aaa-b86f-48c5-9ecd-5b4561dec4d5)
+
 
 Dieses neue Vault kann beliebig benannt werden. Hier wurde "EAZ" gewählt. Wichtig: nicht die Synchronisation mittels iCloud auswählen!
-![image](https://github.com/Galliumhydroxid/Skript-NotizenEAZ/assets/97060233/a2c6fe0a-a751-4ad4-b5c4-0e13e85ea6dd)
+![image](https://github.com/Galliumhydroxid/Skript-NotizenEAZ/assets/97060233/e90240a2-5e05-49b7-83ae-6bf284e539a9)
+
 
 Wurde das neue Vault erstellt, muss das Obsidian-Git Plugin hinzugefügt werden.
 
 ### Installation von Obsidian-Git
 
 Navigiere zu den Einstellungen.
-![image](https://github.com/Galliumhydroxid/Skript-NotizenEAZ/assets/97060233/5207d8d7-7ce8-47d0-8831-298c04effde1)
-
+![image](https://github.com/Galliumhydroxid/Skript-NotizenEAZ/assets/97060233/dfbcae18-3cd6-420e-a0d2-1ff454a2d4b8)
 
 Navigiere zu "Community Plugins" und aktiviere diese.
 ![image](https://github.com/Galliumhydroxid/Skript-NotizenEAZ/assets/97060233/2d5a43cb-6fe0-4d5c-8a0d-d65b5d23f7dd)
